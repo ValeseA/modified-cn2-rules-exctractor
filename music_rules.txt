@@ -1,0 +1,593 @@
+Index(['length', 'chroma_stft_mean', 'chroma_stft_var', 'rms_mean', 'rms_var',
+       'spectral_centroid_mean', 'spectral_centroid_var',
+       'spectral_bandwidth_mean', 'spectral_bandwidth_var', 'rolloff_mean',
+       'rolloff_var', 'zero_crossing_rate_mean', 'zero_crossing_rate_var',
+       'harmony_mean', 'harmony_var', 'perceptr_mean', 'perceptr_var', 'tempo',
+       'mfcc1_mean', 'mfcc1_var', 'mfcc2_mean', 'mfcc2_var', 'mfcc3_mean',
+       'mfcc3_var', 'mfcc4_mean', 'mfcc4_var', 'mfcc5_mean', 'mfcc5_var',
+       'mfcc6_mean', 'mfcc6_var', 'mfcc7_mean', 'mfcc7_var', 'mfcc8_mean',
+       'mfcc8_var', 'mfcc9_mean', 'mfcc9_var', 'mfcc10_mean', 'mfcc10_var',
+       'mfcc11_mean', 'mfcc11_var', 'mfcc12_mean', 'mfcc12_var', 'mfcc13_mean',
+       'mfcc13_var', 'mfcc14_mean', 'mfcc14_var', 'mfcc15_mean', 'mfcc15_var',
+       'mfcc16_mean', 'mfcc16_var', 'mfcc17_mean', 'mfcc17_var', 'mfcc18_mean',
+       'mfcc18_var', 'mfcc19_mean', 'mfcc19_var', 'mfcc20_mean', 'mfcc20_var',
+       'label'],
+      dtype='object')
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+chroma_stft_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+chroma_stft_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+rms_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+rms_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+spectral_centroid_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+spectral_centroid_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+spectral_bandwidth_mean
+low     501
+high    499
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+spectral_bandwidth_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+rolloff_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+rolloff_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+zero_crossing_rate_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+zero_crossing_rate_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+harmony_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+harmony_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+perceptr_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+perceptr_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+tempo
+low     550
+high    450
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc1_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc1_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc2_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc2_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc3_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc3_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc4_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc4_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc5_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc5_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc6_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc6_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc7_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc7_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc8_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc8_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc9_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc9_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc10_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc10_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc11_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc11_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc12_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc12_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc13_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc13_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc14_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc14_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc15_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc15_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc16_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc16_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc17_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc17_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc18_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc18_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc19_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc19_var
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc20_mean
+low     500
+high    500
+Name: count, dtype: int64
+(<function qcut at 0x319b53e20>, 'drop', 2) 2
+mfcc20_var
+low     500
+high    500
+Name: count, dtype: int64
+['blues' 'classical' 'country' 'disco' 'hiphop' 'jazz' 'metal' 'pop'
+ 'reggae' 'rock']
+----- blues -----
+Rule 1: IF mfcc9_mean == low THEN y == blues : [[52, 280], [13, 355]] : 0.6795275590493115
+Rule 2: IF spectral_centroid_mean == low THEN y == blues : [[51, 288], [14, 347]] : 0.6655360387587068
+Rule 3: IF mfcc4_mean == high THEN y == blues : [[51, 288], [14, 347]] : 0.6655360387587068
+Rule 4: IF mfcc6_mean == high THEN y == blues : [[50, 281], [15, 354]] : 0.6633555420901308
+Rule 5: IF zero_crossing_rate_var == low THEN y == blues : [[51, 296], [14, 339]] : 0.6592368261602917
+Rule 6: IF spectral_bandwidth_mean == low THEN y == blues : [[51, 297], [14, 338]] : 0.6584494245854897
+Rule 7: IF mfcc2_mean == high THEN y == blues : [[50, 289], [15, 346]] : 0.6570563294917156
+Rule 8: IF mfcc17_mean == low THEN y == blues : [[48, 291], [17, 344]] : 0.640096910957733
+Rule 9: IF mfcc18_mean == low THEN y == blues : [[49, 309], [16, 326]] : 0.633615990303488
+Rule 10: IF rolloff_mean == low THEN y == blues : [[47, 291], [18, 344]] : 0.6324046032655437
+Confusion Matrix:
+ [[35, 248], [0, 17]]
+Precision:  0.12367491166034038
+Recall:  1.0
+Accuracy:  0.17333333333333334
+Specificity:  0.06415094339598434
+F1 Score:  0.2201257859669317
+AUC-ROC:  0.5320754716855933
+Rule 1: T(blues) -> mfcc9_mean == low :  0.8
+Rule 2: T(blues) -> spectral_centroid_mean == low :  0.785
+Rule 3: T(blues) -> mfcc4_mean == high :  0.785
+Rule 4: T(blues) -> mfcc6_mean == high :  0.769
+Rule 5: T(blues) -> zero_crossing_rate_var == low :  0.785
+Rule 6: T(blues) -> spectral_bandwidth_mean == low :  0.785
+Rule 7: T(blues) -> mfcc2_mean == high :  0.769
+Rule 8: T(blues) -> mfcc17_mean == low :  0.738
+Rule 9: T(blues) -> mfcc18_mean == low :  0.754
+Rule 10: T(blues) -> rolloff_mean == low :  0.723
+----- classical -----
+Rule 1: IF rolloff_mean == low THEN y == classical : [[79, 259], [1, 361]] : 0.7848790322522295
+Rule 2: IF chroma_stft_mean == low THEN y == classical : [[78, 266], [2, 354]] : 0.7729838709619942
+Rule 3: IF spectral_centroid_mean == low THEN y == classical : [[77, 262], [3, 358]] : 0.76995967741368
+Rule 4: IF spectral_bandwidth_mean == low THEN y == classical : [[78, 270], [2, 350]] : 0.7697580645103865
+Rule 5: IF perceptr_var == low THEN y == classical : [[79, 280], [1, 340]] : 0.7679435483812891
+Rule 6: IF zero_crossing_rate_var == low THEN y == classical : [[76, 271], [4, 349]] : 0.7564516128976408
+Rule 7: IF mfcc1_mean == low THEN y == classical : [[76, 273], [4, 347]] : 0.754838709671837
+Rule 8: IF spectral_centroid_var == low THEN y == classical : [[75, 271], [5, 349]] : 0.750201612897719
+Rule 9: IF mfcc2_mean == high THEN y == classical : [[74, 265], [6, 355]] : 0.7487903225752086
+Rule 10: IF rms_var == low THEN y == classical : [[72, 277], [8, 343]] : 0.7266129032205416
+Confusion Matrix:
+ [[20, 250], [0, 30]]
+Precision:  0.07407407407379973
+Recall:  1.0
+Accuracy:  0.16666666666666666
+Specificity:  0.1071428571424745
+F1 Score:  0.13793103435386445
+AUC-ROC:  0.5535714285480229
+Rule 1: T(classical) -> rolloff_mean == low :  0.988
+Rule 2: T(classical) -> chroma_stft_mean == low :  0.975
+Rule 3: T(classical) -> spectral_centroid_mean == low :  0.963
+Rule 4: T(classical) -> spectral_bandwidth_mean == low :  0.975
+Rule 5: T(classical) -> perceptr_var == low :  0.988
+Rule 6: T(classical) -> zero_crossing_rate_var == low :  0.95
+Rule 7: T(classical) -> mfcc1_mean == low :  0.95
+Rule 8: T(classical) -> spectral_centroid_var == low :  0.938
+Rule 9: T(classical) -> mfcc2_mean == high :  0.925
+Rule 10: T(classical) -> rms_var == low :  0.9
+----- country -----
+Rule 1: IF chroma_stft_mean == low THEN y == country : [[53, 291], [10, 346]] : 0.6922204779284455
+Rule 2: IF perceptr_mean == high THEN y == country : [[48, 298], [15, 339]] : 0.6470434327520388
+Rule 3: IF harmony_mean == high THEN y == country : [[48, 300], [15, 337]] : 0.6454735740393254
+Rule 4: IF mfcc14_mean == low THEN y == country : [[48, 315], [15, 322]] : 0.633699633693975
+Rule 5: IF zero_crossing_rate_mean == low THEN y == country : [[46, 303], [17, 334]] : 0.6272457700974914
+Rule 6: IF spectral_centroid_mean == low THEN y == country : [[45, 294], [18, 343]] : 0.6263736263683197
+Rule 7: IF mfcc20_mean == low THEN y == country : [[46, 308], [17, 329]] : 0.623321123315708
+Rule 8: IF rolloff_mean == low THEN y == country : [[44, 294], [19, 343]] : 0.6184371184319378
+Rule 9: IF mfcc2_mean == high THEN y == country : [[44, 295], [19, 342]] : 0.6176521890755811
+Rule 10: IF mfcc5_var == high THEN y == country : [[45, 308], [18, 329]] : 0.615384615379326
+Confusion Matrix:
+ [[36, 250], [1, 13]]
+Precision:  0.12587412587368577
+Recall:  0.972972972972973
+Accuracy:  0.16333333333333333
+Specificity:  0.049429657794488865
+F1 Score:  0.22291021651471787
+AUC-ROC:  0.5112013153724838
+Rule 1: T(country) -> chroma_stft_mean == low :  0.841
+Rule 2: T(country) -> perceptr_mean == high :  0.762
+Rule 3: T(country) -> harmony_mean == high :  0.762
+Rule 4: T(country) -> mfcc14_mean == low :  0.762
+Rule 5: T(country) -> zero_crossing_rate_mean == low :  0.73
+Rule 6: T(country) -> spectral_centroid_mean == low :  0.714
+Rule 7: T(country) -> mfcc20_mean == low :  0.73
+Rule 8: T(country) -> rolloff_mean == low :  0.698
+Rule 9: T(country) -> mfcc2_mean == high :  0.698
+Rule 10: T(country) -> mfcc5_var == high :  0.714
+----- disco -----
+Rule 1: IF perceptr_var == high THEN y == disco : [[53, 288], [13, 346]] : 0.674385813969994
+Rule 2: IF zero_crossing_rate_mean == high THEN y == disco : [[53, 298], [13, 336]] : 0.6664993786387762
+Rule 3: IF spectral_centroid_mean == high THEN y == disco : [[53, 308], [13, 326]] : 0.6586129433075583
+Rule 4: IF zero_crossing_rate_var == high THEN y == disco : [[52, 301], [14, 333]] : 0.656557690463768
+Rule 5: IF rolloff_mean == high THEN y == disco : [[52, 310], [14, 324]] : 0.6494598986656719
+Rule 6: IF chroma_stft_mean == high THEN y == disco : [[51, 305], [15, 329]] : 0.6458273587556381
+Rule 7: IF spectral_bandwidth_mean == high THEN y == disco : [[49, 303], [17, 331]] : 0.6322531306705961
+Rule 8: IF mfcc1_mean == high THEN y == disco : [[48, 303], [18, 331]] : 0.6246773730949533
+Rule 9: IF spectral_centroid_var == high THEN y == disco : [[47, 307], [19, 327]] : 0.6139470413868233
+Rule 10: IF mfcc20_mean == high THEN y == disco : [[46, 300], [20, 334]] : 0.611891788543033
+Confusion Matrix:
+ [[34, 242], [0, 24]]
+Precision:  0.12318840579665512
+Recall:  1.0
+Accuracy:  0.19333333333333333
+Specificity:  0.09022556390943524
+F1 Score:  0.21935483851367327
+AUC-ROC:  0.5451127819418915
+Rule 1: T(disco) -> perceptr_var == high :  0.803
+Rule 2: T(disco) -> zero_crossing_rate_mean == high :  0.803
+Rule 3: T(disco) -> spectral_centroid_mean == high :  0.803
+Rule 4: T(disco) -> zero_crossing_rate_var == high :  0.788
+Rule 5: T(disco) -> rolloff_mean == high :  0.788
+Rule 6: T(disco) -> chroma_stft_mean == high :  0.773
+Rule 7: T(disco) -> spectral_bandwidth_mean == high :  0.742
+Rule 8: T(disco) -> mfcc1_mean == high :  0.727
+Rule 9: T(disco) -> spectral_centroid_var == high :  0.712
+Rule 10: T(disco) -> mfcc20_mean == high :  0.697
+----- hiphop -----
+Rule 1: IF chroma_stft_mean == high THEN y == hiphop : [[71, 285], [5, 339]] : 0.73873987853673
+Rule 2: IF perceptr_var == high THEN y == hiphop : [[67, 274], [9, 350]] : 0.7212381916274804
+Rule 3: IF mfcc5_var == high THEN y == hiphop : [[67, 286], [9, 338]] : 0.7116228070121111
+Rule 4: IF rms_var == high THEN y == hiphop : [[64, 287], [12, 337]] : 0.6910846828558269
+Rule 5: IF mfcc7_var == high THEN y == hiphop : [[63, 283], [13, 341]] : 0.6877108636926156
+Rule 6: IF mfcc2_mean == low THEN y == hiphop : [[64, 297], [12, 327]] : 0.6830718623430192
+Rule 7: IF zero_crossing_rate_var == high THEN y == hiphop : [[63, 290], [13, 334]] : 0.6821018893336502
+Rule 8: IF rms_mean == high THEN y == hiphop : [[61, 279], [15, 345]] : 0.6777580971610697
+Rule 9: IF spectral_bandwidth_mean == high THEN y == hiphop : [[62, 290], [14, 334]] : 0.6755229419653158
+Rule 10: IF mfcc4_var == high THEN y == hiphop : [[62, 296], [14, 328]] : 0.6707152496576312
+Confusion Matrix:
+ [[24, 255], [0, 21]]
+Precision:  0.08602150537603577
+Recall:  1.0
+Accuracy:  0.15
+Specificity:  0.07608695652146345
+F1 Score:  0.15841584143776752
+AUC-ROC:  0.53804347824171
+Rule 1: T(hiphop) -> chroma_stft_mean == high :  0.934
+Rule 2: T(hiphop) -> perceptr_var == high :  0.882
+Rule 3: T(hiphop) -> mfcc5_var == high :  0.882
+Rule 4: T(hiphop) -> rms_var == high :  0.842
+Rule 5: T(hiphop) -> mfcc7_var == high :  0.829
+Rule 6: T(hiphop) -> mfcc2_mean == low :  0.842
+Rule 7: T(hiphop) -> zero_crossing_rate_var == high :  0.829
+Rule 8: T(hiphop) -> rms_mean == high :  0.803
+Rule 9: T(hiphop) -> spectral_bandwidth_mean == high :  0.816
+Rule 10: T(hiphop) -> mfcc4_var == high :  0.816
+----- jazz -----
+Rule 1: IF chroma_stft_mean == low THEN y == jazz : [[64, 280], [3, 353]] : 0.7564429039568151
+Rule 2: IF perceptr_var == low THEN y == jazz : [[62, 297], [5, 336]] : 0.7280894107595397
+Rule 3: IF mfcc6_var == low THEN y == jazz : [[57, 290], [10, 343]] : 0.6963052038326397
+Rule 4: IF mfcc1_mean == low THEN y == jazz : [[57, 292], [10, 341]] : 0.6947254250016786
+Rule 5: IF spectral_centroid_var == low THEN y == jazz : [[56, 290], [11, 343]] : 0.688842517265587
+Rule 6: IF mfcc7_var == low THEN y == jazz : [[56, 298], [11, 335]] : 0.6825234019417423
+Rule 7: IF zero_crossing_rate_var == low THEN y == jazz : [[55, 292], [12, 341]] : 0.6798000518675731
+Rule 8: IF mfcc5_var == low THEN y == jazz : [[55, 292], [12, 341]] : 0.6798000518675731
+Rule 9: IF zero_crossing_rate_mean == low THEN y == jazz : [[55, 294], [12, 339]] : 0.6782202730366119
+Rule 10: IF mfcc8_var == low THEN y == jazz : [[55, 294], [12, 339]] : 0.6782202730366119
+Confusion Matrix:
+ [[33, 257], [0, 10]]
+Precision:  0.11379310344788347
+Recall:  1.0
+Accuracy:  0.14333333333333334
+Specificity:  0.037453183520458976
+F1 Score:  0.20433436514098668
+AUC-ROC:  0.5187265917469507
+Rule 1: T(jazz) -> chroma_stft_mean == low :  0.955
+Rule 2: T(jazz) -> perceptr_var == low :  0.925
+Rule 3: T(jazz) -> mfcc6_var == low :  0.851
+Rule 4: T(jazz) -> mfcc1_mean == low :  0.851
+Rule 5: T(jazz) -> spectral_centroid_var == low :  0.836
+Rule 6: T(jazz) -> mfcc7_var == low :  0.836
+Rule 7: T(jazz) -> zero_crossing_rate_var == low :  0.821
+Rule 8: T(jazz) -> mfcc5_var == low :  0.821
+Rule 9: T(jazz) -> zero_crossing_rate_mean == low :  0.821
+Rule 10: T(jazz) -> mfcc8_var == low :  0.821
+----- metal -----
+Rule 1: IF mfcc8_mean == high THEN y == metal : [[69, 260], [1, 370]] : 0.7865079365012233
+Rule 2: IF mfcc12_mean == high THEN y == metal : [[69, 266], [1, 364]] : 0.7817460317393261
+Rule 3: IF mfcc4_mean == high THEN y == metal : [[69, 270], [1, 360]] : 0.7785714285647279
+Rule 4: IF mfcc10_mean == high THEN y == metal : [[67, 253], [3, 377]] : 0.7777777777712598
+Rule 5: IF mfcc20_var == low THEN y == metal : [[69, 280], [1, 350]] : 0.7706349206282326
+Rule 6: IF mfcc15_mean == low THEN y == metal : [[67, 270], [3, 360]] : 0.7642857142792178
+Rule 7: IF chroma_stft_var == low THEN y == metal : [[68, 281], [2, 349]] : 0.7626984126918278
+Rule 8: IF mfcc3_mean == low THEN y == metal : [[67, 273], [3, 357]] : 0.7619047618982692
+Rule 9: IF mfcc6_mean == high THEN y == metal : [[65, 266], [5, 364]] : 0.7531746031683055
+Rule 10: IF mfcc13_mean == low THEN y == metal : [[65, 267], [5, 363]] : 0.7523809523746561
+Confusion Matrix:
+ [[30, 260], [0, 10]]
+Precision:  0.10344827586171225
+Recall:  1.0
+Accuracy:  0.13333333333333333
+Specificity:  0.03703703703689987
+F1 Score:  0.18749999982949217
+AUC-ROC:  0.5185185185036352
+Rule 1: T(metal) -> mfcc8_mean == high :  0.986
+Rule 2: T(metal) -> mfcc12_mean == high :  0.986
+Rule 3: T(metal) -> mfcc4_mean == high :  0.986
+Rule 4: T(metal) -> mfcc10_mean == high :  0.957
+Rule 5: T(metal) -> mfcc20_var == low :  0.986
+Rule 6: T(metal) -> mfcc15_mean == low :  0.957
+Rule 7: T(metal) -> chroma_stft_var == low :  0.971
+Rule 8: T(metal) -> mfcc3_mean == low :  0.957
+Rule 9: T(metal) -> mfcc6_mean == high :  0.929
+Rule 10: T(metal) -> mfcc13_mean == low :  0.929
+----- pop -----
+Rule 1: IF mfcc4_mean == low THEN y == pop : [[77, 284], [0, 339]] : 0.7720706259970826
+Rule 2: IF spectral_bandwidth_mean == high THEN y == pop : [[76, 276], [1, 347]] : 0.7719976652500387
+Rule 3: IF mfcc7_mean == high THEN y == pop : [[77, 289], [0, 334]] : 0.7680577849055963
+Rule 4: IF spectral_centroid_var == high THEN y == pop : [[75, 279], [2, 344]] : 0.7630964541017247
+Rule 5: IF mfcc9_mean == high THEN y == pop : [[76, 292], [1, 331]] : 0.7591565737572823
+Rule 6: IF zero_crossing_rate_var == high THEN y == pop : [[74, 279], [3, 344]] : 0.7566029476083025
+Rule 7: IF mfcc6_mean == low THEN y == pop : [[75, 294], [2, 329]] : 0.7510579308272656
+Rule 8: IF rolloff_var == high THEN y == pop : [[72, 274], [5, 349]] : 0.7476287757129445
+Rule 9: IF rms_mean == high THEN y == pop : [[71, 269], [6, 354]] : 0.7451481103110086
+Rule 10: IF perceptr_var == high THEN y == pop : [[71, 270], [6, 353]] : 0.7443455420927113
+Confusion Matrix:
+ [[23, 265], [0, 12]]
+Precision:  0.07986111111083381
+Recall:  1.0
+Accuracy:  0.11666666666666667
+Specificity:  0.04332129963883278
+F1 Score:  0.14790996770821227
+AUC-ROC:  0.5216606497994823
+Rule 1: pop -> mfcc4_mean == low
+Rule 2: T(pop) -> spectral_bandwidth_mean == high :  0.987
+Rule 3: pop -> mfcc7_mean == high
+Rule 4: T(pop) -> spectral_centroid_var == high :  0.974
+Rule 5: T(pop) -> mfcc9_mean == high :  0.987
+Rule 6: T(pop) -> zero_crossing_rate_var == high :  0.961
+Rule 7: T(pop) -> mfcc6_mean == low :  0.974
+Rule 8: T(pop) -> rolloff_var == high :  0.935
+Rule 9: T(pop) -> rms_mean == high :  0.922
+Rule 10: T(pop) -> perceptr_var == high :  0.922
+----- reggae -----
+Rule 1: IF mfcc3_var == high THEN y == reggae : [[67, 291], [4, 338]] : 0.7405114310602485
+Rule 2: IF spectral_bandwidth_var == high THEN y == reggae : [[66, 284], [5, 345]] : 0.7390335654565413
+Rule 3: IF mfcc4_var == high THEN y == reggae : [[66, 292], [5, 337]] : 0.7326742649796039
+Rule 4: IF mfcc5_var == high THEN y == reggae : [[65, 288], [6, 341]] : 0.7288116616970449
+Rule 5: IF mfcc2_var == high THEN y == reggae : [[65, 299], [6, 330]] : 0.720067623541256
+Rule 6: IF mfcc7_var == high THEN y == reggae : [[63, 283], [8, 346]] : 0.7187017174530758
+Rule 7: IF spectral_centroid_var == high THEN y == reggae : [[63, 291], [8, 338]] : 0.7123424169761383
+Rule 8: IF rolloff_var == high THEN y == reggae : [[62, 284], [9, 345]] : 0.7108645513724309
+Rule 9: IF mfcc10_var == high THEN y == reggae : [[61, 298], [10, 331]] : 0.6926935220167629
+Rule 10: IF mfcc1_var == high THEN y == reggae : [[60, 297], [11, 332]] : 0.6864461810553525
+Confusion Matrix:
+ [[29, 224], [0, 47]]
+Precision:  0.1146245059284007
+Recall:  1.0
+Accuracy:  0.25333333333333335
+Specificity:  0.17343173431670322
+F1 Score:  0.20567375867999596
+AUC-ROC:  0.5867158671429553
+Rule 1: T(reggae) -> mfcc3_var == high :  0.944
+Rule 2: T(reggae) -> spectral_bandwidth_var == high :  0.93
+Rule 3: T(reggae) -> mfcc4_var == high :  0.93
+Rule 4: T(reggae) -> mfcc5_var == high :  0.915
+Rule 5: T(reggae) -> mfcc2_var == high :  0.915
+Rule 6: T(reggae) -> mfcc7_var == high :  0.887
+Rule 7: T(reggae) -> spectral_centroid_var == high :  0.887
+Rule 8: T(reggae) -> rolloff_var == high :  0.873
+Rule 9: T(reggae) -> mfcc10_var == high :  0.859
+Rule 10: T(reggae) -> mfcc1_var == high :  0.845
+----- rock -----
+Rule 1: IF mfcc13_var == low THEN y == rock : [[51, 291], [14, 344]] : 0.6631738340343012
+Rule 2: IF mfcc12_var == low THEN y == rock : [[51, 302], [14, 333]] : 0.6545124167114802
+Rule 3: IF mfcc11_var == low THEN y == rock : [[50, 298], [15, 337]] : 0.6499697153184983
+Rule 4: IF mfcc8_var == low THEN y == rock : [[50, 299], [15, 336]] : 0.6491823137436965
+Rule 5: IF mfcc3_var == low THEN y == rock : [[48, 294], [17, 341]] : 0.6377347062333273
+Rule 6: IF mfcc20_var == low THEN y == rock : [[48, 301], [17, 334]] : 0.6322228952097139
+Rule 7: IF mfcc14_var == low THEN y == rock : [[47, 293], [18, 342]] : 0.6308298001159398
+Rule 8: IF mfcc16_var == low THEN y == rock : [[48, 303], [17, 332]] : 0.6306480920601101
+Rule 9: IF mfcc5_var == low THEN y == rock : [[47, 300], [18, 335]] : 0.6253179890923265
+Rule 10: IF mfcc1_var == low THEN y == rock : [[46, 297], [19, 338]] : 0.6199878861245429
+Confusion Matrix:
+ [[34, 233], [1, 32]]
+Precision:  0.12734082396956053
+Recall:  0.9714285714285714
+Accuracy:  0.22
+Specificity:  0.1207547169806764
+F1 Score:  0.22516556270823648
+AUC-ROC:  0.5460916441926331
+Rule 1: T(rock) -> mfcc13_var == low :  0.785
+Rule 2: T(rock) -> mfcc12_var == low :  0.785
+Rule 3: T(rock) -> mfcc11_var == low :  0.769
+Rule 4: T(rock) -> mfcc8_var == low :  0.769
+Rule 5: T(rock) -> mfcc3_var == low :  0.738
+Rule 6: T(rock) -> mfcc20_var == low :  0.738
+Rule 7: T(rock) -> mfcc14_var == low :  0.723
+Rule 8: T(rock) -> mfcc16_var == low :  0.738
+Rule 9: T(rock) -> mfcc5_var == low :  0.723
+Rule 10: T(rock) -> mfcc1_var == low :  0.708
+--- 10.124567031860352 seconds ---
