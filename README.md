@@ -18,9 +18,9 @@ This project combines rule extraction techniques with semantic clustering to imp
 
 ## Usage
 
-Example to run the rule extraction module:
+Example to run the rule extraction module, inside the "Rules Extraction" folder:
 ```bash
-python Rules Extraction/gtzan_rules.py
+python gtzan_rules.py
 ```
 
 ## Folder Structure
