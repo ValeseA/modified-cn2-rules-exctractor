@@ -1,0 +1,2633 @@
+{
+    "scenario_label": "hiphop_rock",
+    "rigid": [],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "hiphop",
+            "prop": "mfcc7_var",
+            "val": "high",
+            "prob": "0.858"
+        },
+        {
+            "is_true": "1",
+            "label": "hiphop",
+            "prop": "rms_mean",
+            "val": "high",
+            "prob": "0.8625"
+        },
+        {
+            "is_true": "1",
+            "label": "hiphop",
+            "prop": "mfcc4_var",
+            "val": "high",
+            "prob": "0.873"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc13_var",
+            "val": "low",
+            "prob": "0.785"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc12_var",
+            "val": "low",
+            "prob": "0.785"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc11_var",
+            "val": "low",
+            "prob": "0.769"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc8_var",
+            "val": "low",
+            "prob": "0.769"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc3_var",
+            "val": "low",
+            "prob": "0.738"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc20_var",
+            "val": "low",
+            "prob": "0.738"
+        },
+        {
+            "is_true": "0",
+            "label": "rock",
+            "prop": "mfcc14_var",
+            "val": "low",
+            "prob": "0.723"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc16_var",
+            "val": "low",
+            "prob": "0.738"
+        },
+        {
+            "is_true": "0",
+            "label": "rock",
+            "prop": "mfcc1_var",
+            "val": "low",
+            "prob": "0.708>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "disco.00041.wav",
+            "label": "disco",
+            "prob": 0.9999998899982696,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00013.wav",
+            "label": "disco",
+            "prob": 0.9261996221314605,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00043.wav",
+            "label": "rock",
+            "prob": 0.9261996221314605,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00051.wav",
+            "label": "hiphop",
+            "prob": 0.9261996221314605,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00005.wav",
+            "label": "disco",
+            "prob": 0.9261996221314605,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00059.wav",
+            "label": "hiphop",
+            "prob": 0.9261996221314605,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00019.wav",
+            "label": "disco",
+            "prob": 0.9261996221314605,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00086.wav",
+            "label": "reggae",
+            "prob": 0.9261996221314605,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00040.wav",
+            "label": "rock",
+            "prob": 0.9261996221314605,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00044.wav",
+            "label": "disco",
+            "prob": 0.9261996221314605,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00014.wav",
+            "label": "hiphop",
+            "prob": 0.9261996221314605,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00001.wav",
+            "label": "rock",
+            "prob": 0.9230995714218292,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00067.wav",
+            "label": "reggae",
+            "prob": 0.9230995714218292,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00060.wav",
+            "label": "blues",
+            "prob": 0.9230995714218292,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00006.wav",
+            "label": "disco",
+            "prob": 0.92149953952764,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00055.wav",
+            "label": "hiphop",
+            "prob": 0.92149953952764,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "0",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00030.wav",
+            "label": "disco",
+            "prob": 0.914199302805934,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00050.wav",
+            "label": "blues",
+            "prob": 0.914199302805934,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00035.wav",
+            "label": "pop",
+            "prob": 0.914199302805934,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00055.wav",
+            "label": "rock",
+            "prob": 0.914199302805934,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00071.wav",
+            "label": "rock",
+            "prob": 0.914199302805934,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00002.wav",
+            "label": "disco",
+            "prob": 0.914199302805934,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00028.wav",
+            "label": "rock",
+            "prob": 0.914199302805934,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00002.wav",
+            "label": "metal",
+            "prob": 0.914199302805934,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00009.wav",
+            "label": "metal",
+            "prob": 0.914199302805934,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00048.wav",
+            "label": "hiphop",
+            "prob": 0.914199302805934,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00057.wav",
+            "label": "metal",
+            "prob": 0.912699220460178,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00059.wav",
+            "label": "blues",
+            "prob": 0.912699220460178,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00021.wav",
+            "label": "rock",
+            "prob": 0.912699220460178,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00005.wav",
+            "label": "rock",
+            "prob": 0.912699220460178,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00031.wav",
+            "label": "metal",
+            "prob": 0.912699220460178,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00015.wav",
+            "label": "disco",
+            "prob": 0.912699220460178,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00092.wav",
+            "label": "metal",
+            "prob": 0.912699220460178,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.858"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.8625"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.873"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc3_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3417 @@
+{
+    "scenario_label": "rock_blues",
+    "rigid": [],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc13_var",
+            "val": "low",
+            "prob": "0.785"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc12_var",
+            "val": "low",
+            "prob": "0.785"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc11_var",
+            "val": "low",
+            "prob": "0.769"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc14_var",
+            "val": "low",
+            "prob": "0.723"
+        },
+        {
+            "is_true": "1",
+            "label": "rock",
+            "prop": "mfcc16_var",
+            "val": "low",
+            "prob": "0.738"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "mfcc17_mean",
+            "val": "low",
+            "prob": "0.738"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "mfcc18_mean",
+            "val": "low",
+            "prob": "0.754>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "jazz.00010.wav",
+            "label": "jazz",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00012.wav",
+            "label": "jazz",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00054.wav",
+            "label": "jazz",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00047.wav",
+            "label": "jazz",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00010.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00013.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00029.wav",
+            "label": "jazz",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00020.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "country.00015.wav",
+            "label": "country",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00093.wav",
+            "label": "metal",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00095.wav",
+            "label": "reggae",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00028.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00050.wav",
+            "label": "blues",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00047.wav",
+            "label": "blues",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00046.wav",
+            "label": "blues",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00045.wav",
+            "label": "blues",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00068.wav",
+            "label": "hiphop",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "country.00027.wav",
+            "label": "country",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00061.wav",
+            "label": "jazz",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00094.wav",
+            "label": "reggae",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00037.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00079.wav",
+            "label": "pop",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00082.wav",
+            "label": "metal",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00075.wav",
+            "label": "metal",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00072.wav",
+            "label": "metal",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00032.wav",
+            "label": "classical",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00049.wav",
+            "label": "classical",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00030.wav",
+            "label": "metal",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00025.wav",
+            "label": "metal",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00060.wav",
+            "label": "classical",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00089.wav",
+            "label": "reggae",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00029.wav",
+            "label": "reggae",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00023.wav",
+            "label": "metal",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00062.wav",
+            "label": "classical",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00014.wav",
+            "label": "metal",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00049.wav",
+            "label": "reggae",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00077.wav",
+            "label": "reggae",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00086.wav",
+            "label": "reggae",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00040.wav",
+            "label": "blues",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00092.wav",
+            "label": "metal",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "country.00039.wav",
+            "label": "country",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00014.wav",
+            "label": "disco",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00089.wav",
+            "label": "disco",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "country.00043.wav",
+            "label": "country",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00088.wav",
+            "label": "disco",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00055.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "country.00042.wav",
+            "label": "country",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00009.wav",
+            "label": "disco",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00062.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00064.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00017.wav",
+            "label": "disco",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00092.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "country.00049.wav",
+            "label": "country",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00074.wav",
+            "label": "disco",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00045.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00043.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00060.wav",
+            "label": "disco",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00041.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00030.wav",
+            "label": "disco",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00077.wav",
+            "label": "rock",
+            "prob": 0.9999500533507129,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc13_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc12_var",
+                    "val": "low",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc11_var",
+                    "val": "low",
+                    "prob": "0.769"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc14_var",
+                    "val": "low",
+                    "prob": "0.723"
+                },
+                {
+                    "is_true": "1",
+                    "label": "rock",
+                    "prop": "mfcc16_var",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc17_mean",
+                    "val": "low",
+                    "prob": "0.738"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc18_mean",
+                    "val": "low",
+                    "prob": "0.754"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6028 @@
+{
+    "scenario_label": "classical_metal",
+    "rigid": [],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "chroma_stft_mean",
+            "val": "low",
+            "prob": "0.9315"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "perceptr_var",
+            "val": "low",
+            "prob": "0.9565"
+        },
+        {
+            "is_true": "0",
+            "label": "classical",
+            "prop": "mfcc1_mean",
+            "val": "low",
+            "prob": "0.9005"
+        },
+        {
+            "is_true": "0",
+            "label": "classical",
+            "prop": "spectral_centroid_var",
+            "val": "low",
+            "prob": "0.887"
+        },
+        {
+            "is_true": "0",
+            "label": "classical",
+            "prop": "rms_var",
+            "val": "low",
+            "prob": "0.9"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc8_mean",
+            "val": "high",
+            "prob": "0.986"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc12_mean",
+            "val": "high",
+            "prob": "0.986"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc10_mean",
+            "val": "high",
+            "prob": "0.957"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc20_var",
+            "val": "low",
+            "prob": "0.986"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc15_mean",
+            "val": "low",
+            "prob": "0.957"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "chroma_stft_var",
+            "val": "low",
+            "prob": "0.971"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc3_mean",
+            "val": "low",
+            "prob": "0.957"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc13_mean",
+            "val": "low",
+            "prob": "0.929>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "rock.00099.wav",
+            "label": "rock",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00093.wav",
+            "label": "rock",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00080.wav",
+            "label": "rock",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00057.wav",
+            "label": "disco",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00050.wav",
+            "label": "country",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00083.wav",
+            "label": "rock",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00077.wav",
+            "label": "country",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00079.wav",
+            "label": "rock",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00039.wav",
+            "label": "metal",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00095.wav",
+            "label": "rock",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00064.wav",
+            "label": "rock",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00071.wav",
+            "label": "blues",
+            "prob": 0.9999999999999986,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00041.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00060.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00043.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00044.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00045.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00034.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00019.wav",
+            "label": "rock",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00042.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00062.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00025.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00063.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00064.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00065.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00066.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00068.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00071.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00074.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00076.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00086.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00090.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00093.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00029.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00013.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00094.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00007.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00091.wav",
+            "label": "rock",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00096.wav",
+            "label": "rock",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00097.wav",
+            "label": "rock",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00021.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00001.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00094.wav",
+            "label": "rock",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00006.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00068.wav",
+            "label": "rock",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00010.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00012.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00065.wav",
+            "label": "rock",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00014.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00015.wav",
+            "label": "metal",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00092.wav",
+            "label": "rock",
+            "prob": 0.9068499999999824,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00081.wav",
+            "label": "blues",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00055.wav",
+            "label": "country",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00070.wav",
+            "label": "country",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00022.wav",
+            "label": "metal",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00072.wav",
+            "label": "country",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00081.wav",
+            "label": "country",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00084.wav",
+            "label": "country",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00090.wav",
+            "label": "country",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00099.wav",
+            "label": "country",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00023.wav",
+            "label": "hiphop",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00092.wav",
+            "label": "country",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00053.wav",
+            "label": "country",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00002.wav",
+            "label": "blues",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00048.wav",
+            "label": "blues",
+            "prob": 0.9043499999999722,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00012.wav",
+            "label": "jazz",
+            "prob": 0.904299999999972,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00056.wav",
+            "label": "country",
+            "prob": 0.904299999999972,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00091.wav",
+            "label": "metal",
+            "prob": 0.904299999999972,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00083.wav",
+            "label": "country",
+            "prob": 0.904299999999972,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00084.wav",
+            "label": "rock",
+            "prob": 0.9028999999999584,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00078.wav",
+            "label": "disco",
+            "prob": 0.9028999999999584,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00089.wav",
+            "label": "rock",
+            "prob": 0.901399999999914,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00082.wav",
+            "label": "rock",
+            "prob": 0.901399999999914,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00064.wav",
+            "label": "blues",
+            "prob": 0.901399999999914,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00073.wav",
+            "label": "country",
+            "prob": 0.901399999999914,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00023.wav",
+            "label": "rock",
+            "prob": 0.901399999999914,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00067.wav",
+            "label": "disco",
+            "prob": 0.901399999999914,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9315"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc20_var",
+                    "val": "low",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        }
+    ]
+}

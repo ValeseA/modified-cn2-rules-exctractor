@@ -1,0 +1,2717 @@
+{
+    "scenario_label": "reggae_metal",
+    "rigid": [],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "reggae",
+            "prop": "mfcc3_var",
+            "val": "high",
+            "prob": "0.944"
+        },
+        {
+            "is_true": "1",
+            "label": "reggae",
+            "prop": "spectral_bandwidth_var",
+            "val": "high",
+            "prob": "0.93"
+        },
+        {
+            "is_true": "1",
+            "label": "reggae",
+            "prop": "mfcc2_var",
+            "val": "high",
+            "prob": "0.915"
+        },
+        {
+            "is_true": "0",
+            "label": "reggae",
+            "prop": "mfcc10_var",
+            "val": "high",
+            "prob": "0.859"
+        },
+        {
+            "is_true": "0",
+            "label": "reggae",
+            "prop": "mfcc1_var",
+            "val": "high",
+            "prob": "0.845"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc8_mean",
+            "val": "high",
+            "prob": "0.986"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc12_mean",
+            "val": "high",
+            "prob": "0.986"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc10_mean",
+            "val": "high",
+            "prob": "0.957"
+        },
+        {
+            "is_true": "0",
+            "label": "metal",
+            "prop": "mfcc20_var",
+            "val": "low",
+            "prob": "0.862"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc15_mean",
+            "val": "low",
+            "prob": "0.957"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "chroma_stft_var",
+            "val": "low",
+            "prob": "0.971"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc3_mean",
+            "val": "low",
+            "prob": "0.957"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc13_mean",
+            "val": "low",
+            "prob": "0.929>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "rock.00099.wav",
+            "label": "rock",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00064.wav",
+            "label": "metal",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00043.wav",
+            "label": "metal",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00045.wav",
+            "label": "metal",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00066.wav",
+            "label": "disco",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00060.wav",
+            "label": "disco",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00086.wav",
+            "label": "disco",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00066.wav",
+            "label": "metal",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00049.wav",
+            "label": "disco",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00089.wav",
+            "label": "disco",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00080.wav",
+            "label": "country",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00024.wav",
+            "label": "hiphop",
+            "prob": 0.9999999999999892,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00057.wav",
+            "label": "blues",
+            "prob": 0.9084999999998868,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00075.wav",
+            "label": "metal",
+            "prob": 0.9084999999998868,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00025.wav",
+            "label": "metal",
+            "prob": 0.9084999999998868,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00052.wav",
+            "label": "metal",
+            "prob": 0.9084999999998868,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00098.wav",
+            "label": "metal",
+            "prob": 0.9084999999998868,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00055.wav",
+            "label": "disco",
+            "prob": 0.9084999999998868,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00000.wav",
+            "label": "hiphop",
+            "prob": 0.9069999999998626,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00075.wav",
+            "label": "blues",
+            "prob": 0.9069999999998626,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00021.wav",
+            "label": "hiphop",
+            "prob": 0.9069999999998626,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00014.wav",
+            "label": "hiphop",
+            "prob": 0.9069999999998626,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00096.wav",
+            "label": "metal",
+            "prob": 0.9069999999998626,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00039.wav",
+            "label": "metal",
+            "prob": 0.905599999999828,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00089.wav",
+            "label": "rock",
+            "prob": 0.905599999999828,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00093.wav",
+            "label": "disco",
+            "prob": 0.905599999999828,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00083.wav",
+            "label": "country",
+            "prob": 0.9042999999997764,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00053.wav",
+            "label": "disco",
+            "prob": 0.9042999999997764,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00092.wav",
+            "label": "disco",
+            "prob": 0.9042999999997764,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00081.wav",
+            "label": "disco",
+            "prob": 0.9028999999996682,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00025.wav",
+            "label": "reggae",
+            "prob": 0.9028999999996682,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00059.wav",
+            "label": "disco",
+            "prob": 0.9028999999996682,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00095.wav",
+            "label": "disco",
+            "prob": 0.9028999999996682,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        },
+        {
+            "filename": "country.00073.wav",
+            "label": "country",
+            "prob": 0.9013999999993126,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "0",
+                    "label": "metal",
+                    "prop": "mfcc8_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc12_mean",
+                    "val": "high",
+                    "prob": "0.986"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc10_mean",
+                    "val": "high",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc15_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "chroma_stft_var",
+                    "val": "low",
+                    "prob": "0.971"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc3_mean",
+                    "val": "low",
+                    "prob": "0.957"
+                },
+                {
+                    "is_true": "1",
+                    "label": "metal",
+                    "prop": "mfcc13_mean",
+                    "val": "low",
+                    "prob": "0.929"
+                }
+            ]
+        }
+    ]
+}

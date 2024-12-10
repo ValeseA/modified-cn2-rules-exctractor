@@ -1,0 +1,67 @@
+{
+    "scenario_label": "classical_pop",
+    "rigid": [
+        {
+            "label": "pop",
+            "prop": "mfcc4_mean",
+            "val": "low"
+        },
+        {
+            "label": "pop",
+            "prop": "mfcc7_mean",
+            "val": "high"
+        }
+    ],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "chroma_stft_mean",
+            "val": "low",
+            "prob": "0.9315"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "perceptr_var",
+            "val": "low",
+            "prob": "0.9565"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "mfcc1_mean",
+            "val": "low",
+            "prob": "0.9005"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "spectral_centroid_var",
+            "val": "low",
+            "prob": "0.887"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "rms_var",
+            "val": "low",
+            "prob": "0.9"
+        },
+        {
+            "is_true": "1",
+            "label": "pop",
+            "prop": "rolloff_var",
+            "val": "high",
+            "prob": "0.935"
+        },
+        {
+            "is_true": "1",
+            "label": "pop",
+            "prop": "rms_mean",
+            "val": "high",
+            "prob": "0.922>"
+        }
+    ],
+    "songs_list": []
+}

@@ -1,0 +1,81 @@
+{
+    "scenario_label": "metal_pop",
+    "rigid": [
+        {
+            "label": "pop",
+            "prop": "mfcc4_mean",
+            "val": "low"
+        },
+        {
+            "label": "pop",
+            "prop": "mfcc7_mean",
+            "val": "high"
+        }
+    ],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc8_mean",
+            "val": "high",
+            "prob": "0.986"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc12_mean",
+            "val": "high",
+            "prob": "0.986"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc10_mean",
+            "val": "high",
+            "prob": "0.957"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc20_var",
+            "val": "low",
+            "prob": "0.986"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc15_mean",
+            "val": "low",
+            "prob": "0.957"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "chroma_stft_var",
+            "val": "low",
+            "prob": "0.971"
+        },
+        {
+            "is_true": "1",
+            "label": "metal",
+            "prop": "mfcc3_mean",
+            "val": "low",
+            "prob": "0.957"
+        },
+        {
+            "is_true": "0",
+            "label": "metal",
+            "prop": "mfcc13_mean",
+            "val": "low",
+            "prob": "0.929"
+        },
+        {
+            "is_true": "1",
+            "label": "pop",
+            "prop": "rolloff_var",
+            "val": "high",
+            "prob": "0.935>"
+        }
+    ],
+    "songs_list": []
+}

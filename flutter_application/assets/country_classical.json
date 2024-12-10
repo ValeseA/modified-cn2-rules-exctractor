@@ -1,0 +1,5468 @@
+{
+    "scenario_label": "country_classical",
+    "rigid": [],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "perceptr_mean",
+            "val": "high",
+            "prob": "0.762"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "harmony_mean",
+            "val": "high",
+            "prob": "0.762"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "mfcc14_mean",
+            "val": "low",
+            "prob": "0.762"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "zero_crossing_rate_mean",
+            "val": "low",
+            "prob": "0.73"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "mfcc20_mean",
+            "val": "low",
+            "prob": "0.73"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "mfcc5_var",
+            "val": "high",
+            "prob": "0.714"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "perceptr_var",
+            "val": "low",
+            "prob": "0.9565"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "mfcc1_mean",
+            "val": "low",
+            "prob": "0.9005"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "spectral_centroid_var",
+            "val": "low",
+            "prob": "0.887"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "rms_var",
+            "val": "low",
+            "prob": "0.9>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "country.00079.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00002.wav",
+            "label": "jazz",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00067.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00038.wav",
+            "label": "classical",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00037.wav",
+            "label": "classical",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00030.wav",
+            "label": "classical",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00036.wav",
+            "label": "classical",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00010.wav",
+            "label": "jazz",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00016.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00026.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00035.wav",
+            "label": "classical",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00022.wav",
+            "label": "classical",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00073.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00014.wav",
+            "label": "pop",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00068.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00034.wav",
+            "label": "classical",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00052.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00028.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00078.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00031.wav",
+            "label": "classical",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00021.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00098.wav",
+            "label": "rock",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00022.wav",
+            "label": "country",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00077.wav",
+            "label": "reggae",
+            "prob": 0.9999999862527694,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00093.wav",
+            "label": "jazz",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00044.wav",
+            "label": "classical",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00020.wav",
+            "label": "classical",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00055.wav",
+            "label": "classical",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00025.wav",
+            "label": "classical",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00028.wav",
+            "label": "classical",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00045.wav",
+            "label": "rock",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00022.wav",
+            "label": "jazz",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00088.wav",
+            "label": "classical",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00036.wav",
+            "label": "jazz",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00032.wav",
+            "label": "classical",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00027.wav",
+            "label": "classical",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00086.wav",
+            "label": "classical",
+            "prob": 0.9285999567394844,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00043.wav",
+            "label": "reggae",
+            "prob": 0.9269999541758984,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00064.wav",
+            "label": "country",
+            "prob": 0.9269999541758984,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00046.wav",
+            "label": "country",
+            "prob": 0.9269999541758984,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00033.wav",
+            "label": "classical",
+            "prob": 0.9269999541758984,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00000.wav",
+            "label": "reggae",
+            "prob": 0.9269999541758984,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00013.wav",
+            "label": "classical",
+            "prob": 0.9269999541758984,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00093.wav",
+            "label": "blues",
+            "prob": 0.9237999480146746,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00070.wav",
+            "label": "blues",
+            "prob": 0.9237999480146746,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00008.wav",
+            "label": "jazz",
+            "prob": 0.9237999480146746,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00032.wav",
+            "label": "reggae",
+            "prob": 0.9237999480146746,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00051.wav",
+            "label": "country",
+            "prob": 0.9112998905087836,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00046.wav",
+            "label": "reggae",
+            "prob": 0.9112998905087836,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00037.wav",
+            "label": "country",
+            "prob": 0.9112998905087836,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00070.wav",
+            "label": "reggae",
+            "prob": 0.9112998905087836,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00036.wav",
+            "label": "country",
+            "prob": 0.9112998905087836,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00028.wav",
+            "label": "reggae",
+            "prob": 0.9112998905087836,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00032.wav",
+            "label": "country",
+            "prob": 0.9112998905087836,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00093.wav",
+            "label": "country",
+            "prob": 0.9112998905087836,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00023.wav",
+            "label": "country",
+            "prob": 0.9112998905087836,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00010.wav",
+            "label": "country",
+            "prob": 0.9112998905087836,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00036.wav",
+            "label": "blues",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00099.wav",
+            "label": "blues",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00071.wav",
+            "label": "country",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00028.wav",
+            "label": "blues",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00019.wav",
+            "label": "country",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00065.wav",
+            "label": "country",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00004.wav",
+            "label": "jazz",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00098.wav",
+            "label": "country",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00083.wav",
+            "label": "country",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00003.wav",
+            "label": "blues",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00009.wav",
+            "label": "blues",
+            "prob": 0.9099998762749256,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00027.wav",
+            "label": "country",
+            "prob": 0.9099498756531916,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        },
+        {
+            "filename": "country.00077.wav",
+            "label": "country",
+            "prob": 0.9099498756531916,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.714"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.9565"
+                },
+                {
+                    "is_true": "0",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.9005"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.887"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                }
+            ]
+        }
+    ]
+}

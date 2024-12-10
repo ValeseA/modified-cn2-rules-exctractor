@@ -1,0 +1,1065 @@
+{
+    "scenario_label": "classical_disco",
+    "rigid": [],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "chroma_stft_mean",
+            "val": "low",
+            "prob": "0.9079999999999999"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "perceptr_var",
+            "val": "low",
+            "prob": "0.988"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "mfcc1_mean",
+            "val": "low",
+            "prob": "0.95"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "spectral_centroid_var",
+            "val": "low",
+            "prob": "0.938"
+        },
+        {
+            "is_true": "1",
+            "label": "classical",
+            "prop": "rms_var",
+            "val": "low",
+            "prob": "0.9"
+        },
+        {
+            "is_true": "1",
+            "label": "disco",
+            "prop": "zero_crossing_rate_mean",
+            "val": "high",
+            "prob": "0.803"
+        },
+        {
+            "is_true": "1",
+            "label": "disco",
+            "prop": "mfcc20_mean",
+            "val": "high",
+            "prob": "0.697>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "classical.00098.wav",
+            "label": "classical",
+            "prob": 0.999999979571352,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00039.wav",
+            "label": "classical",
+            "prob": 0.999999979571352,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00085.wav",
+            "label": "jazz",
+            "prob": 0.999999979571352,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00091.wav",
+            "label": "classical",
+            "prob": 0.999999979571352,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00003.wav",
+            "label": "classical",
+            "prob": 0.999999979571352,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00095.wav",
+            "label": "classical",
+            "prob": 0.999999979571352,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00093.wav",
+            "label": "classical",
+            "prob": 0.999999979571352,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00063.wav",
+            "label": "blues",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00092.wav",
+            "label": "classical",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00004.wav",
+            "label": "classical",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00090.wav",
+            "label": "classical",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00089.wav",
+            "label": "classical",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00041.wav",
+            "label": "jazz",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00096.wav",
+            "label": "classical",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00069.wav",
+            "label": "blues",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00060.wav",
+            "label": "classical",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00058.wav",
+            "label": "jazz",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        },
+        {
+            "filename": "country.00046.wav",
+            "label": "country",
+            "prob": 0.9004285136389029,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "chroma_stft_mean",
+                    "val": "low",
+                    "prob": "0.9079999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "perceptr_var",
+                    "val": "low",
+                    "prob": "0.988"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "mfcc1_mean",
+                    "val": "low",
+                    "prob": "0.95"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "spectral_centroid_var",
+                    "val": "low",
+                    "prob": "0.938"
+                },
+                {
+                    "is_true": "1",
+                    "label": "classical",
+                    "prop": "rms_var",
+                    "val": "low",
+                    "prob": "0.9"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "mfcc20_mean",
+                    "val": "high",
+                    "prob": "0.697"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "scenario_label": "blues_pop",
+    "rigid": [
+        {
+            "label": "pop",
+            "prop": "mfcc4_mean",
+            "val": "low"
+        },
+        {
+            "label": "pop",
+            "prop": "mfcc7_mean",
+            "val": "high"
+        }
+    ],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "mfcc9_mean",
+            "val": "low",
+            "prob": "0.8"
+        },
+        {
+            "is_true": "0",
+            "label": "blues",
+            "prop": "spectral_centroid_mean",
+            "val": "low",
+            "prob": "0.794"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "mfcc6_mean",
+            "val": "high",
+            "prob": "0.849"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "zero_crossing_rate_var",
+            "val": "low",
+            "prob": "0.84425"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "spectral_bandwidth_mean",
+            "val": "low",
+            "prob": "0.88"
+        },
+        {
+            "is_true": "0",
+            "label": "blues",
+            "prop": "mfcc2_mean",
+            "val": "high",
+            "prob": "0.7725"
+        },
+        {
+            "is_true": "0",
+            "label": "blues",
+            "prop": "mfcc17_mean",
+            "val": "low",
+            "prob": "0.738"
+        },
+        {
+            "is_true": "0",
+            "label": "blues",
+            "prop": "mfcc18_mean",
+            "val": "low",
+            "prob": "0.754"
+        },
+        {
+            "is_true": "0",
+            "label": "blues",
+            "prop": "rolloff_mean",
+            "val": "low",
+            "prob": "0.7767499999999999"
+        },
+        {
+            "is_true": "1",
+            "label": "pop",
+            "prop": "spectral_centroid_var",
+            "val": "high",
+            "prob": "0.974"
+        },
+        {
+            "is_true": "1",
+            "label": "pop",
+            "prop": "rolloff_var",
+            "val": "high",
+            "prob": "0.935"
+        },
+        {
+            "is_true": "1",
+            "label": "pop",
+            "prop": "rms_mean",
+            "val": "high",
+            "prob": "0.922"
+        },
+        {
+            "is_true": "1",
+            "label": "pop",
+            "prop": "perceptr_var",
+            "val": "high",
+            "prob": "0.922>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "rock.00003.wav",
+            "label": "rock",
+            "prob": 0.999999994196471,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc6_mean",
+                    "val": "high",
+                    "prob": "0.849"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.84425"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "pop",
+                    "prop": "spectral_centroid_var",
+                    "val": "high",
+                    "prob": "0.974"
+                },
+                {
+                    "is_true": "1",
+                    "label": "pop",
+                    "prop": "rolloff_var",
+                    "val": "high",
+                    "prob": "0.935"
+                },
+                {
+                    "is_true": "1",
+                    "label": "pop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.922"
+                },
+                {
+                    "is_true": "1",
+                    "label": "pop",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.922"
+                }
+            ]
+        }
+    ]
+}

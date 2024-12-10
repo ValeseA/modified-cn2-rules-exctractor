@@ -1,0 +1,2892 @@
+{
+    "scenario_label": "blues_disco",
+    "rigid": [],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "mfcc9_mean",
+            "val": "low",
+            "prob": "0.8"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "spectral_centroid_mean",
+            "val": "low",
+            "prob": "0.794"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "mfcc4_mean",
+            "val": "high",
+            "prob": "0.785"
+        },
+        {
+            "is_true": "0",
+            "label": "blues",
+            "prop": "mfcc6_mean",
+            "val": "high",
+            "prob": "0.769"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "zero_crossing_rate_var",
+            "val": "low",
+            "prob": "0.8674999999999999"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "spectral_bandwidth_mean",
+            "val": "low",
+            "prob": "0.88"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "mfcc2_mean",
+            "val": "high",
+            "prob": "0.7725"
+        },
+        {
+            "is_true": "0",
+            "label": "blues",
+            "prop": "mfcc17_mean",
+            "val": "low",
+            "prob": "0.738"
+        },
+        {
+            "is_true": "0",
+            "label": "blues",
+            "prop": "mfcc18_mean",
+            "val": "low",
+            "prob": "0.754"
+        },
+        {
+            "is_true": "1",
+            "label": "blues",
+            "prop": "rolloff_mean",
+            "val": "low",
+            "prob": "0.7767499999999999"
+        },
+        {
+            "is_true": "1",
+            "label": "disco",
+            "prop": "perceptr_var",
+            "val": "high",
+            "prob": "0.803"
+        },
+        {
+            "is_true": "1",
+            "label": "disco",
+            "prop": "zero_crossing_rate_mean",
+            "val": "high",
+            "prob": "0.803"
+        },
+        {
+            "is_true": "1",
+            "label": "disco",
+            "prop": "chroma_stft_mean",
+            "val": "high",
+            "prob": "0.773"
+        },
+        {
+            "is_true": "0",
+            "label": "disco",
+            "prop": "mfcc1_mean",
+            "val": "high",
+            "prob": "0.727"
+        },
+        {
+            "is_true": "0",
+            "label": "disco",
+            "prop": "spectral_centroid_var",
+            "val": "high",
+            "prob": "0.712"
+        },
+        {
+            "is_true": "0",
+            "label": "disco",
+            "prop": "mfcc20_mean",
+            "val": "high",
+            "prob": "0.697>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "blues.00077.wav",
+            "label": "blues",
+            "prob": 0.9999999369820924,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00051.wav",
+            "label": "blues",
+            "prob": 0.9999999369820924,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00054.wav",
+            "label": "blues",
+            "prob": 0.9999999369820924,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00081.wav",
+            "label": "metal",
+            "prob": 0.9999999369820924,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00084.wav",
+            "label": "blues",
+            "prob": 0.9999999369820924,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00002.wav",
+            "label": "metal",
+            "prob": 0.9999999369820924,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00055.wav",
+            "label": "disco",
+            "prob": 0.9999999369820924,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00081.wav",
+            "label": "blues",
+            "prob": 0.9226997501492654,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00073.wav",
+            "label": "blues",
+            "prob": 0.9226997501492654,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00082.wav",
+            "label": "blues",
+            "prob": 0.9226997501492654,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00058.wav",
+            "label": "blues",
+            "prob": 0.9226997501492654,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00017.wav",
+            "label": "rock",
+            "prob": 0.9205997246790448,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "0",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00024.wav",
+            "label": "rock",
+            "prob": 0.9205997246790448,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "0",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00088.wav",
+            "label": "disco",
+            "prob": 0.9205997246790448,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "0",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00028.wav",
+            "label": "rock",
+            "prob": 0.9199997164194162,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00060.wav",
+            "label": "disco",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00060.wav",
+            "label": "blues",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00065.wav",
+            "label": "disco",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00057.wav",
+            "label": "blues",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00089.wav",
+            "label": "disco",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00056.wav",
+            "label": "blues",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00071.wav",
+            "label": "rock",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00069.wav",
+            "label": "disco",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00050.wav",
+            "label": "blues",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00000.wav",
+            "label": "rock",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00075.wav",
+            "label": "metal",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00008.wav",
+            "label": "blues",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00021.wav",
+            "label": "reggae",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00097.wav",
+            "label": "rock",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00010.wav",
+            "label": "rock",
+            "prob": 0.9196997121009302,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00084.wav",
+            "label": "hiphop",
+            "prob": 0.9132495719538358,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "0",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00053.wav",
+            "label": "blues",
+            "prob": 0.9132495719538358,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "0",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00021.wav",
+            "label": "rock",
+            "prob": 0.9132495719538358,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "0",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00018.wav",
+            "label": "rock",
+            "prob": 0.9132495719538358,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "0",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00020.wav",
+            "label": "rock",
+            "prob": 0.9132495719538358,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "0",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00055.wav",
+            "label": "blues",
+            "prob": 0.9132495719538358,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc9_mean",
+                    "val": "low",
+                    "prob": "0.8"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_centroid_mean",
+                    "val": "low",
+                    "prob": "0.794"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc4_mean",
+                    "val": "high",
+                    "prob": "0.785"
+                },
+                {
+                    "is_true": "0",
+                    "label": "blues",
+                    "prop": "zero_crossing_rate_var",
+                    "val": "low",
+                    "prob": "0.8674999999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "spectral_bandwidth_mean",
+                    "val": "low",
+                    "prob": "0.88"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "mfcc2_mean",
+                    "val": "high",
+                    "prob": "0.7725"
+                },
+                {
+                    "is_true": "1",
+                    "label": "blues",
+                    "prop": "rolloff_mean",
+                    "val": "low",
+                    "prob": "0.7767499999999999"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "perceptr_var",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "disco",
+                    "prop": "chroma_stft_mean",
+                    "val": "high",
+                    "prob": "0.773"
+                }
+            ]
+        }
+    ]
+}

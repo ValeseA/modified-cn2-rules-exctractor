@@ -1,0 +1,5811 @@
+{
+    "scenario_label": "country_hiphop",
+    "rigid": [],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "perceptr_mean",
+            "val": "high",
+            "prob": "0.762"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "harmony_mean",
+            "val": "high",
+            "prob": "0.762"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "mfcc14_mean",
+            "val": "low",
+            "prob": "0.762"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "zero_crossing_rate_mean",
+            "val": "low",
+            "prob": "0.73"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "mfcc20_mean",
+            "val": "low",
+            "prob": "0.73"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "mfcc5_var",
+            "val": "high",
+            "prob": "0.798"
+        },
+        {
+            "is_true": "1",
+            "label": "hiphop",
+            "prop": "mfcc7_var",
+            "val": "high",
+            "prob": "0.829"
+        },
+        {
+            "is_true": "1",
+            "label": "hiphop",
+            "prop": "rms_mean",
+            "val": "high",
+            "prob": "0.803"
+        },
+        {
+            "is_true": "1",
+            "label": "hiphop",
+            "prop": "mfcc4_var",
+            "val": "high",
+            "prob": "0.816>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "reggae.00044.wav",
+            "label": "reggae",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00030.wav",
+            "label": "blues",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00070.wav",
+            "label": "reggae",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00056.wav",
+            "label": "blues",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00076.wav",
+            "label": "country",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00095.wav",
+            "label": "country",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00036.wav",
+            "label": "blues",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00041.wav",
+            "label": "disco",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00006.wav",
+            "label": "rock",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00038.wav",
+            "label": "blues",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00033.wav",
+            "label": "blues",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00034.wav",
+            "label": "blues",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00083.wav",
+            "label": "country",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00065.wav",
+            "label": "hiphop",
+            "prob": 0.9999987694764534,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00078.wav",
+            "label": "hiphop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00076.wav",
+            "label": "hiphop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00049.wav",
+            "label": "pop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00044.wav",
+            "label": "disco",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00080.wav",
+            "label": "hiphop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00028.wav",
+            "label": "hiphop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00091.wav",
+            "label": "pop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00039.wav",
+            "label": "hiphop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00040.wav",
+            "label": "hiphop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00059.wav",
+            "label": "pop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00012.wav",
+            "label": "country",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00045.wav",
+            "label": "hiphop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00049.wav",
+            "label": "hiphop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00056.wav",
+            "label": "pop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00084.wav",
+            "label": "pop",
+            "prob": 0.918884837782563,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00055.wav",
+            "label": "hiphop",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00046.wav",
+            "label": "hiphop",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00073.wav",
+            "label": "hiphop",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00072.wav",
+            "label": "hiphop",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00087.wav",
+            "label": "blues",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00086.wav",
+            "label": "disco",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00064.wav",
+            "label": "hiphop",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00038.wav",
+            "label": "hiphop",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00090.wav",
+            "label": "country",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00006.wav",
+            "label": "blues",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00010.wav",
+            "label": "blues",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00094.wav",
+            "label": "country",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00029.wav",
+            "label": "blues",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00007.wav",
+            "label": "blues",
+            "prob": 0.9153287375404424,
+            "tipical_parsed": [
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00070.wav",
+            "label": "country",
+            "prob": 0.911327918488244,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00010.wav",
+            "label": "pop",
+            "prob": 0.911327918488244,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "0",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00019.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00005.wav",
+            "label": "blues",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00014.wav",
+            "label": "pop",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00046.wav",
+            "label": "reggae",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00010.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00078.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00079.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00021.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00022.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00011.wav",
+            "label": "blues",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00023.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00009.wav",
+            "label": "blues",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00052.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00032.wav",
+            "label": "blues",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00068.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00039.wav",
+            "label": "blues",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00006.wav",
+            "label": "reggae",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00028.wav",
+            "label": "blues",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00065.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00099.wav",
+            "label": "blues",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00067.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00052.wav",
+            "label": "rock",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00026.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00028.wav",
+            "label": "reggae",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00036.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00093.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00027.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00071.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00074.wav",
+            "label": "country",
+            "prob": 0.910772225500072,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00077.wav",
+            "label": "country",
+            "prob": 0.9093273887751376,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00080.wav",
+            "label": "country",
+            "prob": 0.9093273887751376,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00031.wav",
+            "label": "blues",
+            "prob": 0.9093273887751376,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00002.wav",
+            "label": "blues",
+            "prob": 0.9093273887751376,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00003.wav",
+            "label": "blues",
+            "prob": 0.9093273887751376,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "blues.00035.wav",
+            "label": "blues",
+            "prob": 0.9093273887751376,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00089.wav",
+            "label": "reggae",
+            "prob": 0.9078824924052163,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        },
+        {
+            "filename": "country.00098.wav",
+            "label": "country",
+            "prob": 0.9078824924052163,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "zero_crossing_rate_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc20_mean",
+                    "val": "low",
+                    "prob": "0.73"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc5_var",
+                    "val": "high",
+                    "prob": "0.798"
+                },
+                {
+                    "is_true": "0",
+                    "label": "hiphop",
+                    "prop": "mfcc7_var",
+                    "val": "high",
+                    "prob": "0.829"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "rms_mean",
+                    "val": "high",
+                    "prob": "0.803"
+                },
+                {
+                    "is_true": "1",
+                    "label": "hiphop",
+                    "prop": "mfcc4_var",
+                    "val": "high",
+                    "prob": "0.816"
+                }
+            ]
+        }
+    ]
+}

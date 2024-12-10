@@ -1,0 +1,2899 @@
+{
+    "scenario_label": "jazz_country",
+    "rigid": [],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "jazz",
+            "prop": "mfcc6_var",
+            "val": "low",
+            "prob": "0.851"
+        },
+        {
+            "is_true": "1",
+            "label": "jazz",
+            "prop": "mfcc8_var",
+            "val": "low",
+            "prob": "0.821"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "perceptr_mean",
+            "val": "high",
+            "prob": "0.762"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "harmony_mean",
+            "val": "high",
+            "prob": "0.762"
+        },
+        {
+            "is_true": "1",
+            "label": "country",
+            "prop": "mfcc14_mean",
+            "val": "low",
+            "prob": "0.762>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "classical.00055.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00027.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00086.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00085.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00083.wav",
+            "label": "jazz",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00093.wav",
+            "label": "jazz",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00022.wav",
+            "label": "metal",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00052.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00043.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00038.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00035.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00032.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00031.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00030.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00027.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00025.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00022.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00081.wav",
+            "label": "metal",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "metal.00089.wav",
+            "label": "metal",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00006.wav",
+            "label": "pop",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00012.wav",
+            "label": "pop",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00072.wav",
+            "label": "pop",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "pop.00082.wav",
+            "label": "pop",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00046.wav",
+            "label": "reggae",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00089.wav",
+            "label": "reggae",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00088.wav",
+            "label": "classical",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00058.wav",
+            "label": "jazz",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00036.wav",
+            "label": "jazz",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "country.00047.wav",
+            "label": "country",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00009.wav",
+            "label": "disco",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00004.wav",
+            "label": "disco",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00022.wav",
+            "label": "disco",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00024.wav",
+            "label": "disco",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00030.wav",
+            "label": "disco",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00035.wav",
+            "label": "disco",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00036.wav",
+            "label": "disco",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00042.wav",
+            "label": "disco",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00048.wav",
+            "label": "hiphop",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00001.wav",
+            "label": "jazz",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00002.wav",
+            "label": "jazz",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "country.00013.wav",
+            "label": "country",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00004.wav",
+            "label": "jazz",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "country.00042.wav",
+            "label": "country",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "country.00030.wav",
+            "label": "country",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "country.00028.wav",
+            "label": "country",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00019.wav",
+            "label": "jazz",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00020.wav",
+            "label": "jazz",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00022.wav",
+            "label": "jazz",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "country.00017.wav",
+            "label": "country",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "country.00016.wav",
+            "label": "country",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "country.00014.wav",
+            "label": "country",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "reggae.00099.wav",
+            "label": "reggae",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "disco.00013.wav",
+            "label": "disco",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00044.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00056.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00043.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00045.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00046.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00048.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00049.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00089.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00094.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00051.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00053.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00034.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00042.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00032.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00097.wav",
+            "label": "rock",
+            "prob": 0.999640440994488,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.821"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "perceptr_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "harmony_mean",
+                    "val": "high",
+                    "prob": "0.762"
+                },
+                {
+                    "is_true": "1",
+                    "label": "country",
+                    "prop": "mfcc14_mean",
+                    "val": "low",
+                    "prob": "0.762"
+                }
+            ]
+        }
+    ]
+}

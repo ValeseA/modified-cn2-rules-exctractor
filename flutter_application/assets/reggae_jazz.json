@@ -1,0 +1,393 @@
+{
+    "scenario_label": "reggae_jazz",
+    "rigid": [],
+    "tipical": [
+        {
+            "is_true": "1",
+            "label": "reggae",
+            "prop": "mfcc3_var",
+            "val": "high",
+            "prob": "0.944"
+        },
+        {
+            "is_true": "1",
+            "label": "reggae",
+            "prop": "spectral_bandwidth_var",
+            "val": "high",
+            "prob": "0.93"
+        },
+        {
+            "is_true": "1",
+            "label": "reggae",
+            "prop": "mfcc2_var",
+            "val": "high",
+            "prob": "0.915"
+        },
+        {
+            "is_true": "1",
+            "label": "reggae",
+            "prop": "mfcc10_var",
+            "val": "high",
+            "prob": "0.859"
+        },
+        {
+            "is_true": "1",
+            "label": "reggae",
+            "prop": "mfcc1_var",
+            "val": "high",
+            "prob": "0.845"
+        },
+        {
+            "is_true": "1",
+            "label": "jazz",
+            "prop": "mfcc6_var",
+            "val": "low",
+            "prob": "0.851"
+        },
+        {
+            "is_true": "1",
+            "label": "jazz",
+            "prop": "mfcc8_var",
+            "val": "low",
+            "prob": "0.7949999999999999>"
+        }
+    ],
+    "songs_list": [
+        {
+            "filename": "jazz.00059.wav",
+            "label": "jazz",
+            "prob": 0.9999997775686832,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc10_var",
+                    "val": "high",
+                    "prob": "0.859"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc1_var",
+                    "val": "high",
+                    "prob": "0.845"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.7949999999999999"
+                }
+            ]
+        },
+        {
+            "filename": "jazz.00003.wav",
+            "label": "jazz",
+            "prob": 0.9999997775686832,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc10_var",
+                    "val": "high",
+                    "prob": "0.859"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc1_var",
+                    "val": "high",
+                    "prob": "0.845"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.7949999999999999"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00052.wav",
+            "label": "classical",
+            "prob": 0.9999997775686832,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc10_var",
+                    "val": "high",
+                    "prob": "0.859"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc1_var",
+                    "val": "high",
+                    "prob": "0.845"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.7949999999999999"
+                }
+            ]
+        },
+        {
+            "filename": "classical.00064.wav",
+            "label": "classical",
+            "prob": 0.9999997775686832,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc10_var",
+                    "val": "high",
+                    "prob": "0.859"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc1_var",
+                    "val": "high",
+                    "prob": "0.845"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.7949999999999999"
+                }
+            ]
+        },
+        {
+            "filename": "hiphop.00051.wav",
+            "label": "hiphop",
+            "prob": 0.9999997775686832,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc10_var",
+                    "val": "high",
+                    "prob": "0.859"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc1_var",
+                    "val": "high",
+                    "prob": "0.845"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.7949999999999999"
+                }
+            ]
+        },
+        {
+            "filename": "rock.00004.wav",
+            "label": "rock",
+            "prob": 0.9999997775686832,
+            "tipical_parsed": [
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc3_var",
+                    "val": "high",
+                    "prob": "0.944"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "spectral_bandwidth_var",
+                    "val": "high",
+                    "prob": "0.93"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc2_var",
+                    "val": "high",
+                    "prob": "0.915"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc10_var",
+                    "val": "high",
+                    "prob": "0.859"
+                },
+                {
+                    "is_true": "1",
+                    "label": "reggae",
+                    "prop": "mfcc1_var",
+                    "val": "high",
+                    "prob": "0.845"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc6_var",
+                    "val": "low",
+                    "prob": "0.851"
+                },
+                {
+                    "is_true": "1",
+                    "label": "jazz",
+                    "prop": "mfcc8_var",
+                    "val": "low",
+                    "prob": "0.7949999999999999"
+                }
+            ]
+        }
+    ]
+}
